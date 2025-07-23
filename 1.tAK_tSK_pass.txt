@@ -1,0 +1,3 @@
+
+username=adminAKSK
+password=123456
